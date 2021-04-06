@@ -1,0 +1,18 @@
+16
+Card 1 3 1 Piechota) inf
+Card 2 5 2 T-34) t-34
+Card 3 7 3 Haubica B-4) art
+Horn 4 0 0 Odznaczenie Jednostki) star
+Desertion 5 0 0 Propaganda) des
+AirSupport 6 0 0 Przewaga Powietrzna) ar
+AntiTank 7 0 0 Wsparcie Przeciwpancerne) at
+HQ 8 0 0 Wsparcie sztabu glownego) radio
+Dummy 9 0 0 Atrapa) dummy
+Strike 10 0 0 Skoncentrowane uderzenie) strike
+Spy 11 5 2 Pantera M10) m10
+Elite 12 9 1 Elitarna Piechota) leet
+Medic 13 4 1 Medyk) med
+Brotherhood 14 1 1 Partyzantka) volks
+Bond 15 5 1 Snajper) snipar
+Morale 16 3 1 Dowodca plutonu) ura
+

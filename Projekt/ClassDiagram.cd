@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Card">
+    <Position X="14.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgFhAABEAAAAAAAAAABKAAAHABAEEgDAAAgEHAkAAhE=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Horn" Collapsed="true">
+    <Position X="10" Y="12" Width="1.5" />
+    <InheritanceLine Type="Card" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.5" Y="13.062" />
+        <Point X="10.75" Y="13.062" />
+        <Point X="10.75" Y="12.691" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAEAAAAAAAEAAAABA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desertion" Collapsed="true">
+    <Position X="12.25" Y="14.75" Width="1.5" />
+    <InheritanceLine Type="Card" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.5" Y="15.75" />
+        <Point X="13" Y="15.75" />
+        <Point X="13" Y="15.441" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAEAAAAAAAEAAAABA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirSupport" Collapsed="true">
+    <Position X="7.75" Y="13.5" Width="1.5" />
+    <InheritanceLine Type="Card" FixedFromPoint="true">
+      <Path>
+        <Point X="14.5" Y="14.438" />
+        <Point X="8.5" Y="14.438" />
+        <Point X="8.5" Y="14.191" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAEAAAAAAAEAAAABA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AntiTank" Collapsed="true">
+    <Position X="7.75" Y="17.5" Width="1.5" />
+    <InheritanceLine Type="Card" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.5" Y="17.062" />
+        <Point X="8.5" Y="17.062" />
+        <Point X="8.5" Y="17.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAACAAAAEAAAABA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HQ" Collapsed="true">
+    <Position X="12.25" Y="12" Width="1.5" />
+    <InheritanceLine Type="Card" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.5" Y="13.062" />
+        <Point X="13" Y="13.062" />
+        <Point X="13" Y="12.691" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAEAAAABA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dummy" Collapsed="true">
+    <Position X="10.25" Y="16" Width="1.5" />
+    <InheritanceLine Type="Card" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.5" Y="17.062" />
+        <Point X="11" Y="17.062" />
+        <Point X="11" Y="16.691" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAEAAAABA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Strike" Collapsed="true">
+    <Position X="10" Y="13.5" Width="1.5" />
+    <InheritanceLine Type="Card" FixedFromPoint="true">
+      <Path>
+        <Point X="14.5" Y="14.438" />
+        <Point X="10.75" Y="14.438" />
+        <Point X="10.75" Y="14.191" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACEAAAAAAAEAAAABA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spy" Collapsed="true">
+    <Position X="7.75" Y="16" Width="1.5" />
+    <InheritanceLine Type="Card" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.5" Y="17.062" />
+        <Point X="8.5" Y="17.062" />
+        <Point X="8.5" Y="16.691" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAEAAAAJA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Elite" Collapsed="true">
+    <Position X="7.75" Y="14.75" Width="1.5" />
+    <InheritanceLine Type="Card" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.5" Y="15.75" />
+        <Point X="8.5" Y="15.75" />
+        <Point X="8.5" Y="15.441" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAEAAAAEAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Medic" Collapsed="true">
+    <Position X="12.25" Y="16" Width="1.5" />
+    <InheritanceLine Type="Card" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.5" Y="17.062" />
+        <Point X="13" Y="17.062" />
+        <Point X="13" Y="16.691" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAEAAAAAAAEAAAABA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brotherhood" Collapsed="true">
+    <Position X="12.25" Y="13.5" Width="1.5" />
+    <InheritanceLine Type="Card" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.5" Y="14.438" />
+        <Point X="13" Y="14.438" />
+        <Point X="13" Y="14.191" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAIEAAAABA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bond" Collapsed="true">
+    <Position X="7.75" Y="12" Width="1.5" />
+    <InheritanceLine Type="Card" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.5" Y="13.062" />
+        <Point X="8.5" Y="13.062" />
+        <Point X="8.5" Y="12.691" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAEAIAAAAAEAAAABA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Morale" Collapsed="true">
+    <Position X="10" Y="14.75" Width="1.5" />
+    <InheritanceLine Type="Card" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.5" Y="15.75" />
+        <Point X="10.75" Y="15.75" />
+        <Point X="10.75" Y="15.441" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAIAgAAAEAAAABA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerBoard" Collapsed="true">
+    <Position X="19.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIDAEwggESBJQA0gBgAwEMKDIyiAfYQCEAAUEJQCzo=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="23.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>0AAACAAAAAAIAQAAAAIAAAAACAgAAAAQABAAgAAAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GraphicHandler" Collapsed="true">
+    <Position X="26.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABIBEQDAAARQAIABAAICAIoQBAAAAAAAAAIAAAAQEAQ=</HashCode>
+      <FileName>GraphicHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Initializer">
+    <Position X="26.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAUAAAAAAAAAAAAAAAAEgAAABAAQAAAAAAAAABAA=</HashCode>
+      <FileName>Initializer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="26.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>goTBDCQCIDCAIAAAAaYZAIAWJHQAAAIkCMAQJCQA4BE=</HashCode>
+      <FileName>MainMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayedGame">
+    <Position X="22.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAIAAAAAAAAIAAAAAAAAAAAIAAAAAACAAAA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="19.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAAAAAAAEQAAAAAAAgAAAAARAEAEAAAAAEAQAAEgA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActivePlayer">
+    <Position X="18.25" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="botPlayer">
+    <Position X="20.5" Y="17.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAACAA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ResourceException">
+    <Position X="26.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cards.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="State">
+    <Position X="26.5" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAABAAAAAAgAAAAAAAAAAAAAAAAkAAA=</HashCode>
+      <FileName>GraphicHandler.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="menustate">
+    <Position X="26.5" Y="16.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAABAAAAAAABAAEAJAAAAAAAAAAA=</HashCode>
+      <FileName>MainMenu.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
